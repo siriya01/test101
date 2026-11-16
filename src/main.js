@@ -8,7 +8,7 @@ document.querySelector('#app').innerHTML = `
 <section id="center">
   
   <div>
-    <h1>Get started</h1>
+    <h1>auto deploy</h1>
     <p>Edit <code>src/main.js</code> and save to test <code>HMR</code></p>
   </div>
   <button id="counter" type="button" class="counter"></button>
